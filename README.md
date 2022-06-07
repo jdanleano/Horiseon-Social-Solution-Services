@@ -41,3 +41,13 @@ After making the necessary adjustments to structure, I then went on to add alt a
 Once I was done adding the alt attributes to the images, I then started checking the heading attributes throughout the code and put them in sequential order, from h1 the header, to h2 in the section, h3 in the aside, and h4 at the footer.
 
 As the last criteria, I added a title element with the marketing agency's full name as the title.
+
+
+
+
+
+## Please see attached links to Repository and Deployed Page:
+
+https://github.com/jdanleano/Mod-01-Challenge/
+
+https://jdanleano.github.io/Mod-01-Challenge/

@@ -1,5 +1,9 @@
 # Module 01 Challenge
 
+## Mock Up
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](challenge-screenshot.jpg)
+
 This is my completed code for the Module 01 challenge this week. We were given a task this week in the form of an on-the-job ticket, where we need to modify a starter code to meet Acceptance Criteria. The user story was:
 
 ## User Story
